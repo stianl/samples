@@ -1,6 +1,6 @@
 {
   "name": "App Install Banner Sample",
-  "short_name": "App Install Banner Sample",
+  "short_name": "App Install Banner Sample Test",
   "icons": [
     {
       "src": "launcher-icon-0-75x.png",
